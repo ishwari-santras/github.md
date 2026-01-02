@@ -1,4 +1,4 @@
-git installation
+# git installation
 apt-get install git
 
 # Check git
